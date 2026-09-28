@@ -1,0 +1,14 @@
+{
+  "name": "Isabel Ferguson",
+  "language": "en",
+  "description": "Isabel Ferguson, art therapist and workshop leader based in Valencia.",
+  "copyright": "© Isabel Ferguson, 2026",
+  "skipLink": "Skip to content",
+  "navigationLabel": "Main navigation",
+  "navigation": [
+    { "label": "art therapy", "url": "/art-therapy/" },
+    { "label": "workshops", "url": "/workshops/" },
+    { "label": "about", "url": "/about/" },
+    { "label": "contact", "url": "/contact/" }
+  ]
+}

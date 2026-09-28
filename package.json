@@ -1,0 +1,11 @@
+{
+  "name": "isabel-ferguson-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.mjs",
+    "build": "node src/build.mjs",
+    "start": "node src/server.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
